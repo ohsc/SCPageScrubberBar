@@ -5,7 +5,7 @@ SCPageScrubberBar works with iOS5.0+ and ARC.
 
 <img src="https://raw.github.com/ohsc/SCPageScrubberBar/master/Resources/scrubber_bar.png" /> &nbsp;
 <img src="https://raw.github.com/ohsc/SCPageScrubberBar/master/Resources/scrubber_bar_drag.png" /> &nbsp;
-<img src="https://raw.github.com/ohsc/SCPageScrubberBar/master/Resources/scrubber_bar_drag_popover" />
+<img src="https://raw.github.com/ohsc/SCPageScrubberBar/master/Resources/scrubber_bar_drag_popover.png" />
 
 TODO
 ----------------------
