@@ -65,3 +65,7 @@ scrubberBar.isPopoverMode = (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPa
 ## LICENSE
 Copyright (c) 2013 Chao Shen. This software is licensed under the BSD License.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ohsc/scpagescrubberbar/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
